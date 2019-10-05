@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool'
+gem 'devcamp_kaveh_view_tool'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_view_tool
+    $ gem install devcamp_kaveh_view_tool
 
 ## Usage
 

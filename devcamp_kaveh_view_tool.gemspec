@@ -1,9 +1,9 @@
 lib = File.expand_path("lib", __dir__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "devcamp_view_tool/version"
+require "devcamp_kaveh_view_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "devcamp_view_tool"
+  spec.name          = "devcamp_kaveh_view_tool"
   spec.version       = DevcampViewTool::VERSION
   spec.authors       = ["Kaveh Mossavati"]
   spec.email         = ["kaveh.mossavati@gmail.com"]
