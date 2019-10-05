@@ -4,7 +4,7 @@ require "devcamp_kaveh_view_tool/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "devcamp_kaveh_view_tool"
-  spec.version       = DevcampViewTool::VERSION
+  spec.version       = DevcampKavehViewTool::VERSION
   spec.authors       = ["Kaveh Mossavati"]
   spec.email         = ["kaveh.mossavati@gmail.com"]
 
